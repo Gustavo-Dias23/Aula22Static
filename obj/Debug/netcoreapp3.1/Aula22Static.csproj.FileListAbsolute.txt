@@ -1,0 +1,13 @@
+D:\Users\gusta\Desktop\Senai\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.exe
+D:\Users\gusta\Desktop\Senai\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.deps.json
+D:\Users\gusta\Desktop\Senai\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.runtimeconfig.json
+D:\Users\gusta\Desktop\Senai\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.runtimeconfig.dev.json
+D:\Users\gusta\Desktop\Senai\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.dll
+D:\Users\gusta\Desktop\Senai\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.pdb
+D:\Users\gusta\Desktop\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.csprojAssemblyReference.cache
+D:\Users\gusta\Desktop\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.AssemblyInfoInputs.cache
+D:\Users\gusta\Desktop\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.AssemblyInfo.cs
+D:\Users\gusta\Desktop\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.csproj.CoreCompileInputs.cache
+D:\Users\gusta\Desktop\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.dll
+D:\Users\gusta\Desktop\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.pdb
+D:\Users\gusta\Desktop\Senai\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.genruntimeconfig.cache
